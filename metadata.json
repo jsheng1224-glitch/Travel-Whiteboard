@@ -1,0 +1,6 @@
+{
+  "name": "Collaborative Travel Board",
+  "description": "An interactive whiteboard for sketching travel routes, adding travel cards, and organizing trips collaboratively in real-time with an AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
